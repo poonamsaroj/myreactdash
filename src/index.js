@@ -8,7 +8,6 @@ class HelloWorld extends React.Component{
     {
       return (
         <section>
-        <Navbarpage />
         <Dashboard />
         </section>
       )
