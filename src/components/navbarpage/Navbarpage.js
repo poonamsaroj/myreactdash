@@ -178,7 +178,7 @@ class PrimarySearchAppBar extends React.Component {
               <MenuIcon />
             </IconButton>
             <Typography className={classes.title} variant="h6" color="inherit" noWrap>
-              Material-UI
+              Food-Exchange
             </Typography>
             <div className={classes.search}>
               <div className={classes.searchIcon}>

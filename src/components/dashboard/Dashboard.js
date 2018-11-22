@@ -5,7 +5,7 @@ class Dashboard extends Component {
   
   render() {
     return (
-      <div style={{color: "pink"}}>This is dashboard content</div>      
+      <div></div>      
     );
   }
 }
